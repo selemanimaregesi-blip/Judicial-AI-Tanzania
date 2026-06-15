@@ -37,7 +37,7 @@ The project applies Artificial Intelligence (AI), Machine Learning (ML), Natural
 
 - [Thesis_Abstract](docs/Thesis_Abstract.pdf)
 - [Project_Potfolio_for_selemani](docs/Project_Potfolio_for_selemani.pdf)
-- [Research Notebook](notebook/Judicial _AI_Thesis.ipynb)
+- [Judicial _AI_Thesis](notebook/Judicial _AI_Thesis.ipynb)
 - [Figures](figures/)
 - [Sample Outputs](sample_outputs/)
 
