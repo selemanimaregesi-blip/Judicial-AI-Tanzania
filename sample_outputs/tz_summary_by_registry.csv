@@ -1,0 +1,34 @@
+court_registry,n,mean_days,median_days,p25,p75,max
+Court of Appeal Dar es Salaam Registry,5.0,9.4,9.0,8.0,11.0,14.0
+Court of Appeal Dodoma Registry,5.0,4.2,4.0,2.0,5.0,9.0
+Court of Appeal Mbeya Registry,1.0,14.0,14.0,14.0,14.0,14.0
+Court of Appeal Musoma Registry,3.0,11.0,10.0,9.5,12.0,14.0
+Court of Appeal Mwanza Registry,5.0,9.4,10.0,3.0,14.0,18.0
+High Court Arusha Registry,23.0,35.130434782608695,36.0,24.5,44.5,103.0
+High Court Bukoba Registry,16.0,3.0625,0.0,0.0,2.25,20.0
+High Court Chake Chake Pemba Registry,4.0,0.0,0.0,0.0,0.0,0.0
+High Court Commercial Division Arusha,2.0,3.5,3.5,1.75,5.25,7.0
+High Court Commercial Division Dar es Salaam,13.0,74.3076923076923,9.0,3.0,19.0,732.0
+High Court Commercial Division Mwanza,2.0,35.5,35.5,18.25,52.75,70.0
+High Court Dar es Salaam Main Registry,11.0,27.0,14.0,11.0,40.0,87.0
+High Court Dar es Salaam Zone Registry,24.0,53.958333333333336,56.5,0.0,91.0,197.0
+High Court Dodoma Main Registry,11.0,34.18181818181818,14.0,8.0,55.5,102.0
+High Court Dodoma Registry,24.0,37.166666666666664,36.5,7.0,65.25,91.0
+High Court Geita Registry,19.0,11.157894736842104,5.0,4.0,17.5,39.0
+High Court Iringa Registry,21.0,57.714285714285715,29.0,10.0,64.0,317.0
+High Court Kigoma Registry,2.0,4.5,4.5,2.25,6.75,9.0
+High Court Manyara Registry,1.0,2.0,2.0,2.0,2.0,2.0
+High Court Mbeya Registry,24.0,28.625,9.0,0.0,51.5,105.0
+High Court Morogoro Registry,5.0,27.4,18.0,16.0,23.0,79.0
+High Court Moshi Registry,18.0,27.166666666666668,25.5,2.75,34.5,77.0
+High Court Mtwara Registry,20.0,37.6,39.5,21.5,51.75,94.0
+High Court Musoma Registry,9.0,47.888888888888886,58.0,35.0,71.0,78.0
+High Court Mwanza Registry,7.0,23.857142857142858,8.0,3.0,31.0,91.0
+High Court Shinyanga Registry,21.0,41.57142857142857,31.0,24.0,63.0,93.0
+High Court Songea Main Registry,7.0,21.857142857142858,24.0,15.0,27.0,40.0
+High Court Songea Registry,19.0,38.10526315789474,20.0,15.5,32.5,327.0
+High Court Sumbawanga Registry,15.0,39.733333333333334,42.0,4.5,69.0,100.0
+High Court Tabora Registry,18.0,20.833333333333332,11.5,1.25,34.25,71.0
+High Court Tanga Registry,16.0,19.6875,6.0,0.0,35.0,89.0
+High Court Vuga Registry,12.0,1.5833333333333333,0.0,0.0,0.0,11.0
+One Stop Judicial Center Temeke,16.0,27.9375,26.0,12.75,31.0,71.0

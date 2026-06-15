@@ -1,0 +1,10 @@
+metric,mean,std,notes,Model,Accuracy,Macro-F1,Weighted-F1,ROC-AUC,Calibrated,MinClassTrain,accuracy,macro_f1,weighted_f1,macro_roc_auc,n_test,source
+accuracy,0.933,0.0,Tanzania 5-fold CV,,,,,,,,,,,,,
+macro_f1,0.18,0.016,Tanzania 5-fold CV,,,,,,,,,,,,,
+weighted_f1,0.901,0.0,Tanzania 5-fold CV,,,,,,,,,,,,,
+roc_auc_macro,0.837,0.004,Tanzania 5-fold CV,,,,,,,,,,,,,
+,,,,Baseline (MiniLM + SVM),0.934,0.161,0.902,0.867,True,2.0,,,,,,
+,,,,+ Retrieval features (k=10),0.929,0.192,0.906,0.884,True,2.0,,,,,,
+,,,,,,,,,,,0.514,0.341,0.485,0.798,486.0,kenya_test
+,,,,,,,,,,,0.02,0.031,0.029,0.583,51.0,tanzania_test
+,,,,,,,,,,,0.936,0.179,0.907,0.923,1103.0,tanzania_refined

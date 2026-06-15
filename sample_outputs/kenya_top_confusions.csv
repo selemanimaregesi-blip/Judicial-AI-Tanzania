@@ -1,0 +1,23 @@
+true,pred,count
+allowed,dismissed,83
+dismissed,allowed,64
+court issues further directions,allowed,14
+court issues further directions,dismissed,14
+convicted,dismissed,10
+struck out,dismissed,8
+convicted,allowed,7
+acquitted,dismissed,4
+other,allowed,4
+allowed,convicted,3
+struck out,allowed,3
+sentenced,convicted,3
+acquitted,allowed,3
+acquitted,convicted,2
+file closed,dismissed,2
+file closed,allowed,2
+allowed,sentenced,2
+allowed,other,2
+sentenced,dismissed,2
+other,convicted,2
+allowed,acquitted,1
+sentenced,allowed,1

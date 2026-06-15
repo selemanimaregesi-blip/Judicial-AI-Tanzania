@@ -1,0 +1,2 @@
+Dataset,embeddings_only,retrieval_augmented,delta_macro_f1
+tanzania,0.1609626504141272,0.1687632109043234,0.007800560490196201

@@ -1,0 +1,6 @@
+Policy Summary:
+- Total evaluated cases: 435
+- Mean duration overall: 32.3 days.
+- Correct predictions show shorter durations on average (33.3 days) than incorrect ones (25.0 days), suggesting procedural complexity reduces model reliability.
+- Confidence declines steadily from Q1 (fastest cases) to Q4 (slowest), highlighting how systemic delays affect predictive stability.
+- Outcomes such as 'other' exhibit the longest mean duration ≈ 33 days, requiring targeted reform attention.

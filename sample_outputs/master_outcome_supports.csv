@@ -1,0 +1,7 @@
+outcome,true_support,pred_support,dataset
+other,1030,1103,tanzania
+allowed,35,0,tanzania
+dismissed,32,0,tanzania
+convicted,4,0,tanzania
+court issues further directions,1,0,tanzania
+acquitted,1,0,tanzania

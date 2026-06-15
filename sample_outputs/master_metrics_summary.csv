@@ -1,0 +1,2 @@
+dataset,n,accuracy,macro_f1,weighted_f1,mean_confidence
+tanzania,1103,0.9338,0.161,0.9019,0.9317
