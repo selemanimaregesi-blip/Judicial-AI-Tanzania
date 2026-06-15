@@ -10,6 +10,26 @@ The project applies Artificial Intelligence (AI), Machine Learning (ML), Natural
 
 ---
 
+## Repository Contents
+
+* Thesis Abstract
+* AI Project Portfolio
+* Research Notebook
+* Key Visualizations
+* Sample Outputs
+* Supporting Documentation
+
+## Research Themes
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Explainable AI
+* Digital Governance
+* Justice Sector Innovation
+* SDG 16: Peace, Justice and Strong Institutions
+
+
 ## Research Objectives
 
 * Diagnose judicial bottlenecks using case duration analysis.
