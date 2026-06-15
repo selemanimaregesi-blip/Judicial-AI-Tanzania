@@ -9,6 +9,15 @@ This repository contains the implementation and supporting materials for my Mast
 The project applies Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Explainable AI (XAI) techniques to support judicial analytics, evidence-based policymaking, and justice sector modernization.
 
 ---
+## Framework Overview
+
+![Framework Overview](figures/hybrid framework Architecture.drawio (1))
+*Figure 1: SEMDR-Lite + ADAPT framework for judicial bottleneck diagnosis and explainable case outcome prediction.*
+
+## Model Performance
+
+![Model performance](figures/Figure_5_8_Performance_Comparison new)
+
 
 ## Repository Contents
 
