@@ -1,4 +1,9 @@
 # Judicial Bottleneck Diagnosis and Explainable Case Outcome Prediction in Tanzania
+## Framework Overview
+
+![Framework Overview](figures/hybrid framework Architecture.drawio (1).png)
+
+*Figure 1: SEMDR-Lite + ADAPT framework for judicial bottleneck diagnosis and explainable case outcome prediction.*
 
 ## Project Overview
 
@@ -9,24 +14,32 @@ This repository contains the implementation and supporting materials for my Mast
 The project applies Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Explainable AI (XAI) techniques to support judicial analytics, evidence-based policymaking, and justice sector modernization.
 
 ---
+
+## Repository Contents
+
+- Thesis Abstract
+- AI Project Portfolio
+- Research Notebook
+- Key Visualizations
+- Sample Outputs
+- Supporting Documentation
 ## Framework Overview
 
-![Framework Overview](figures/hybrid framework Architecture.drawio (1))
+![Framework Overview](figures/hybrid framework Architecture.drawio (1).png)
 *Figure 1: SEMDR-Lite + ADAPT framework for judicial bottleneck diagnosis and explainable case outcome prediction.*
 
 ## Model Performance
 
-![Model performance](figures/Figure_5_8_Performance_Comparison new)
+![Model performance](figures/Figure_5_8_Performance_Comparison new.png)
 
 
-## Repository Contents
+## Documentation and Work Samples
 
-* Thesis Abstract
-* AI Project Portfolio
-* Research Notebook
-* Key Visualizations
-* Sample Outputs
-* Supporting Documentation
+- [Thesis Abstract](docs/Thesis Abstract.pdf)
+- [Project_Potfolio for selemani](docs/Project_Potfolio for selemani.pdf)
+- [Research Notebook](notebook/Judicial_AI_Thesis.ipynb)
+- [Figures](figures/)
+- [Sample Outputs](sample_outputs/)
 
 ## Research Themes
 
@@ -89,6 +102,14 @@ This work contributes to:
 * Evidence-Based Policymaking
 
 ---
+
+## Key Contributions
+
+- Developed a hybrid SEMDR-Lite + ADAPT framework.
+- Applied Explainable AI using LIME and SHAP.
+- Conducted cross-jurisdictional validation using East African judicial datasets.
+- Supported evidence-based legal reform through AI-assisted analytics.
+- Demonstrated practical applications of responsible AI in digital governance.
 
 ## Author
 
